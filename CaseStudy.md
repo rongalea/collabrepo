@@ -1,22 +1,3 @@
-# A Case Study of MoneyMe
-
-![MoneyMe Logo](MoneyMeLogo.jpg)
-
-## Description
-
-In this case study we look into the background of the company, what technology it uses, and what makes this company special!
-
-## Contributors
-
-Kevin Chen - kevinchen345@gmail.com
-
-Antonio Albuquerque - tonyalbuquerque@yahoo.com
-
-Ron Galea - rongalea@gmail.com
-
-<<<<<<< HEAD
-Coen Emmenegger
-
 Research the FinTech case study you chose. Provide answers to the following:
 
 
@@ -40,6 +21,7 @@ Speed of loan approvals
 Low overheads vs competition
 Proprietary technology and AI finds new solutions for existing clients
 Weaknesses
+
 Target audience is the tech-savvy i.e. younger, so perhaps missing out on larger transactions from wealthier older people. 
 Possible regulatory hurdles ahead
 
@@ -47,6 +29,3 @@ Possible regulatory hurdles ahead
 
 What is the prognosis for this company? Where do they expect to be in the future?
 Money me is opening up a pre-startup fund to allow people to fund their startup ideas. They have recently released new products into the financial market
-=======
-Coen Emmenegger - coenemmenegger@hotmail.com
->>>>>>> bcc716f766b7a45fbbf6ce96f644e05e2c844419
