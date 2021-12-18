@@ -12,6 +12,6 @@ Kevin Chen - kevinchen345@gmail.com
 
 Antonio Albuquerque - tonyalbuquerque@yahoo.com
 
-Ron Galea - 
+Ron Galea - rongalea@gmail.com
 
-Coen Emmenegger - 
+Coen Emmenegger
